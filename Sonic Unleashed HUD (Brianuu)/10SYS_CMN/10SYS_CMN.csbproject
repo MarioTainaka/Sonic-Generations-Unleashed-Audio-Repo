@@ -4007,7 +4007,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/00_system/01_actionstage/02_sys_actstg_score_aif</SoundElementReference>
       <Children />
-      <Volume>300</Volume>
+      <Volume>500</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -4187,7 +4187,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/00_system/01_actionstage/04_sys_actstg_total_aif</SoundElementReference>
       <Children />
-      <Volume>560</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
@@ -5357,7 +5357,7 @@
       <PlaybackType>Normal</PlaybackType>
       <SoundElementReference>Synth/00_system/01_actionstage/21_sys_actstg_statesbar_aif</SoundElementReference>
       <Children />
-      <Volume>500</Volume>
+      <Volume>800</Volume>
       <Pitch>0</Pitch>
       <DelayTime>0</DelayTime>
       <SControl>0</SControl>
