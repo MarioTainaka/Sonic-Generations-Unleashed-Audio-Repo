@@ -61,7 +61,7 @@
     <BuilderCueNode>
       <Name>Result2</Name>
       <Identifier>819008</Identifier>
-      <SynthReference>Synth/EMBB084_bgm_sys_result_wav.aax</SynthReference>
+      <SynthReference>Synth/EMBB085_bgm_sys_result_ng_wav.aax</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
@@ -85,12 +85,6 @@
       <SynthReference>Synth/EMBB082_Game_Over</SynthReference>
       <UserComment />
       <Flags>0</Flags>
-    </BuilderCueNode>
-    <BuilderCueNode>
-      <Name>Result3</Name>
-      <Identifier>819012</Identifier>
-      <SynthReference>Synth/EMBB085_bgm_sys_result_ng_wav.aax</SynthReference>
-      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Result_Boss</Name>
