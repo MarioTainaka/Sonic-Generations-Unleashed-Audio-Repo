@@ -90,7 +90,7 @@
       <Name>Result3</Name>
       <Identifier>819012</Identifier>
       <SynthReference>Synth/EMBB085_bgm_sys_result_ng_wav.aax</SynthReference>
-      <Flags>0</Flags>
+      <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Result_Boss</Name>
