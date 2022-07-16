@@ -4,384 +4,384 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>1000_sw_open</Name>
-      <Identifier>1000000</Identifier>
+      <Id>1000000</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_000_sw_open</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_sw_close</Name>
-      <Identifier>1000001</Identifier>
+      <Id>1000001</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_001_sw_close</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_fw_open</Name>
-      <Identifier>1000002</Identifier>
+      <Id>1000002</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_002_fw_open</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_fw_close</Name>
-      <Identifier>1000003</Identifier>
+      <Id>1000003</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_003_fw_close</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_cursor</Name>
-      <Identifier>1000004</Identifier>
+      <Id>1000004</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_004_cursor</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_button</Name>
-      <Identifier>1000005</Identifier>
+      <Id>1000005</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_005_button</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_lr_slide</Name>
-      <Identifier>1000006</Identifier>
+      <Id>1000006</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_006_lr_slide</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_select_ng</Name>
-      <Identifier>1000007</Identifier>
+      <Id>1000007</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_007_select_ng</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_title_decide</Name>
-      <Identifier>1000008</Identifier>
+      <Id>1000008</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_008_pressstart</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load01_00</Name>
-      <Identifier>1000009</Identifier>
+      <Id>1000009</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_009_load01_00</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load01_01</Name>
-      <Identifier>1000010</Identifier>
+      <Id>1000010</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_010_load01_01</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load01_02</Name>
-      <Identifier>1000011</Identifier>
+      <Id>1000011</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_011_load01_02</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load01_03</Name>
-      <Identifier>1000012</Identifier>
+      <Id>1000012</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_012_load01_03</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load02_00</Name>
-      <Identifier>1000013</Identifier>
+      <Id>1000013</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_013_load02_00</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_load02_01</Name>
-      <Identifier>1000014</Identifier>
+      <Id>1000014</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_014_load02_01</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_gameover</Name>
-      <Identifier>1000015</Identifier>
+      <Id>1000015</Id>
       <SynthReference>Synth/1000000_system/1000000_SYS_CMN/1000_015_gameover</SynthReference>
       <UserComment>Ported By Mario Tainaka @Criware.LTD 2008-2020</UserComment>
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_speed_01</Name>
-      <Identifier>1000016</Identifier>
+      <Id>1000016</Id>
       <SynthReference>Synth/02_object/01_obj_sonic/00_common/40_objsn_speed_01</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_speed_02</Name>
-      <Identifier>1000017</Identifier>
+      <Id>1000017</Id>
       <SynthReference>Synth/02_object/01_obj_sonic/00_common/41_objsn_speed_02</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>1000_speed_03</Name>
-      <Identifier>1000018</Identifier>
+      <Id>1000018</Id>
       <SynthReference>Synth/02_object/01_obj_sonic/00_common/42_objsn_speed_03</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_titlebar</Name>
-      <Identifier>1000019</Identifier>
+      <Id>1000019</Id>
       <SynthReference>Synth/00_system/01_actionstage/01_sys_actstg_titlebar</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_score</Name>
-      <Identifier>1000020</Identifier>
+      <Id>1000020</Id>
       <SynthReference>Synth/00_system/01_actionstage/02_sys_actstg_score</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_total</Name>
-      <Identifier>1000021</Identifier>
+      <Id>1000021</Id>
       <SynthReference>Synth/00_system/01_actionstage/04_sys_actstg_total</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_pausecursor</Name>
-      <Identifier>1000022</Identifier>
+      <Id>1000022</Id>
       <SynthReference>Synth/00_system/01_actionstage/11_sys_actstg_pausecursor</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_pausedecide</Name>
-      <Identifier>1000023</Identifier>
+      <Id>1000023</Id>
       <SynthReference>Synth/00_system/01_actionstage/12_sys_actstg_pausedecide</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_pausecansel</Name>
-      <Identifier>1000024</Identifier>
+      <Id>1000024</Id>
       <SynthReference>Synth/00_system/01_actionstage/13_sys_actstg_pausecansel</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_pausewinopen</Name>
-      <Identifier>1000025</Identifier>
+      <Id>1000025</Id>
       <SynthReference>Synth/00_system/01_actionstage/14_sys_actstg_pausewinopen</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_pausewinclose</Name>
-      <Identifier>1000026</Identifier>
+      <Id>1000026</Id>
       <SynthReference>Synth/00_system/01_actionstage/15_sys_actstg_pausewinclose</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_finaldecide</Name>
-      <Identifier>1000027</Identifier>
+      <Id>1000027</Id>
       <SynthReference>Synth/00_system/01_actionstage/18_sys_actstg_finaldecide</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_statescharachange</Name>
-      <Identifier>1000028</Identifier>
+      <Id>1000028</Id>
       <SynthReference>Synth/00_system/01_actionstage/19_sys_actstg_statescharachange</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_stateslrslide</Name>
-      <Identifier>1000029</Identifier>
+      <Id>1000029</Id>
       <SynthReference>Synth/00_system/01_actionstage/20_sys_actstg_stateslrslide</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_statesbar</Name>
-      <Identifier>1000030</Identifier>
+      <Id>1000030</Id>
       <SynthReference>Synth/00_system/01_actionstage/21_sys_actstg_statesbar</SynthReference>
       <UserComment />
       <Flags>1</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_stateserror</Name>
-      <Identifier>1000031</Identifier>
+      <Id>1000031</Id>
       <SynthReference>Synth/00_system/01_actionstage/22_sys_actstg_stateserror</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_stateslevup</Name>
-      <Identifier>1000032</Identifier>
+      <Id>1000032</Id>
       <SynthReference>Synth/00_system/01_actionstage/23_sys_actstg_stateslevup</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_statesparamdown</Name>
-      <Identifier>1000033</Identifier>
+      <Id>1000033</Id>
       <SynthReference>Synth/00_system/01_actionstage/24_sys_actstg_statesparamdown</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_doorlrslide</Name>
-      <Identifier>1000034</Identifier>
+      <Id>1000034</Id>
       <SynthReference>Synth/00_system/01_actionstage/27_sys_actstg_doorlrslide</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_score_add</Name>
-      <Identifier>1000035</Identifier>
+      <Id>1000035</Id>
       <SynthReference>Synth/00_system/01_actionstage/28_sys_actstg_score_add</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_score_finish</Name>
-      <Identifier>1000036</Identifier>
+      <Id>1000036</Id>
       <SynthReference>Synth/00_system/01_actionstage/29_sys_actstg_score_finish</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_statesdecide</Name>
-      <Identifier>1000037</Identifier>
+      <Id>1000037</Id>
       <SynthReference>Synth/00_system/01_actionstage/12_sys_actstg_pausedecide</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_doordecide</Name>
-      <Identifier>1000038</Identifier>
+      <Id>1000038</Id>
       <SynthReference>Synth/00_system/01_actionstage/12_sys_actstg_pausedecide</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_statescursor</Name>
-      <Identifier>1000039</Identifier>
+      <Id>1000039</Id>
       <SynthReference>Synth/00_system/01_actionstage/11_sys_actstg_pausecursor</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_doorcursor</Name>
-      <Identifier>1000040</Identifier>
+      <Id>1000040</Id>
       <SynthReference>Synth/00_system/01_actionstage/11_sys_actstg_pausecursor</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_s</Name>
-      <Identifier>1000041</Identifier>
+      <Id>1000041</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_s</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_a</Name>
-      <Identifier>1000042</Identifier>
+      <Id>1000042</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_a</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_b</Name>
-      <Identifier>1000043</Identifier>
+      <Id>1000043</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_c</Name>
-      <Identifier>1000044</Identifier>
+      <Id>1000044</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_d</Name>
-      <Identifier>1000045</Identifier>
+      <Id>1000045</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_e</Name>
-      <Identifier>1000046</Identifier>
+      <Id>1000046</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_e</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_score_highscore</Name>
-      <Identifier>1000047</Identifier>
+      <Id>1000047</Id>
       <SynthReference>Synth/00_system/01_actionstage/30_sys_actstg_score_hiscore</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_chanceattack_score</Name>
-      <Identifier>1000048</Identifier>
+      <Id>1000048</Id>
       <SynthReference>Synth/00_system/01_actionstage/33_sys_chanceattack_score</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_twn_speech</Name>
-      <Identifier>1000049</Identifier>
+      <Id>1000049</Id>
       <SynthReference>Synth/03_town/00_objtwn_cmn/131_sys_actstg_twn_speech</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_twn_speechbutton</Name>
-      <Identifier>1000050</Identifier>
+      <Id>1000050</Id>
       <SynthReference>Synth/03_town/00_objtwn_cmn/132_sys_actstg_twn_speechbutton</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_letter</Name>
-      <Identifier>1000051</Identifier>
+      <Id>1000051</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_letter</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_mission_clear</Name>
-      <Identifier>1000052</Identifier>
+      <Id>1000052</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_mission_clear</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_newrecord</Name>
-      <Identifier>1000053</Identifier>
+      <Id>1000053</Id>
       <SynthReference>Synth/00_system/01_actionstage/03_sys_actstg_newrecord</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_sn_clap_hand</Name>
-      <Identifier>1000054</Identifier>
+      <Id>1000054</Id>
       <SynthReference>Synth/02_object/01_obj_sonic/00_common/66_sn_clap_hand_aif</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>

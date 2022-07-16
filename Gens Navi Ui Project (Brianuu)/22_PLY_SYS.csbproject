@@ -4,19 +4,19 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>Sys_Ui_Navi_Console</Name>
-      <Identifier>3000812983</Identifier>
+      <Id>3000812983</Id>
       <SynthReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_011_navi</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Sys_Ui_Navi_Handheld</Name>
-      <Identifier>3000812984</Identifier>
+      <Id>3000812984</Id>
       <SynthReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_012_navi_ds</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Sys_Ui_Ring_Dash_0</Name>
-      <Identifier>3000812985</Identifier>
+      <Id>3000812985</Id>
       <SynthReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_013_ring_dash_aif</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>

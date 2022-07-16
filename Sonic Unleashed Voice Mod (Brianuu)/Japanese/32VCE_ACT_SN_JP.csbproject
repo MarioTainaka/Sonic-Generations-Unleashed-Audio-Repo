@@ -4,217 +4,217 @@
   <CueNodes>
     <BuilderCueNode>
       <Name>3002_action01</Name>
-      <Identifier>3002000</Identifier>
+      <Id>3002000</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_000_action01</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_action02</Name>
-      <Identifier>3002001</Identifier>
+      <Id>3002001</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_001_action02</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_stumble</Name>
-      <Identifier>3002002</Identifier>
+      <Id>3002002</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_002_stumble</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_damage01</Name>
-      <Identifier>3002003</Identifier>
+      <Id>3002003</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_003_damage01</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_damage02</Name>
-      <Identifier>3002004</Identifier>
+      <Id>3002004</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_004_damage02</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_damage03</Name>
-      <Identifier>3002005</Identifier>
+      <Id>3002005</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_005_damage03</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_damage04</Name>
-      <Identifier>3002006</Identifier>
+      <Id>3002006</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_006_damage04</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_dead</Name>
-      <Identifier>3002007</Identifier>
+      <Id>3002007</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_007_dead</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_action03</Name>
-      <Identifier>3002008</Identifier>
+      <Id>3002008</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_008_action03</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_action04</Name>
-      <Identifier>3002009</Identifier>
+      <Id>3002009</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_009_action04</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_014_action05_add</Name>
-      <Identifier>3002019</Identifier>
+      <Id>3002019</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_014_action05_add</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_strain</Name>
-      <Identifier>3002010</Identifier>
+      <Id>3002010</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_010_strain</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_damage05</Name>
-      <Identifier>3002011</Identifier>
+      <Id>3002011</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_011_damage05</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_yawn</Name>
-      <Identifier>3002012</Identifier>
+      <Id>3002012</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_012_yawn</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_success01</Name>
-      <Identifier>3002013</Identifier>
+      <Id>3002013</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_013_success01</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_action05</Name>
-      <Identifier>3002014</Identifier>
+      <Id>3002014</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_014_action05</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_damage06</Name>
-      <Identifier>3002015</Identifier>
+      <Id>3002015</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_015_damage06</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_action06</Name>
-      <Identifier>3002016</Identifier>
+      <Id>3002016</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_016_action06</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_ready</Name>
-      <Identifier>3002017</Identifier>
+      <Id>3002017</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_017_ready</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>3002_go</Name>
-      <Identifier>3002018</Identifier>
+      <Id>3002018</Id>
       <SynthReference>Synth/3000000_voice/3002000_VCE_ACT_SN_EN/3002_018_go</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Rank_S</Name>
-      <Identifier>40000</Identifier>
+      <Id>40000</Id>
       <SynthReference>Synth/3000000_voice/3000000_Rank_Voice/S_Rank</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Rank_A</Name>
-      <Identifier>40001</Identifier>
+      <Id>40001</Id>
       <SynthReference>Synth/3000000_voice/3000000_Rank_Voice/A_Rank</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Rank_B</Name>
-      <Identifier>40002</Identifier>
+      <Id>40002</Id>
       <SynthReference>Synth/3000000_voice/3000000_Rank_Voice/B_Rank</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Rank_C</Name>
-      <Identifier>40003</Identifier>
+      <Id>40003</Id>
       <SynthReference>Synth/3000000_voice/3000000_Rank_Voice/C_Rank</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Rank_D</Name>
-      <Identifier>40004</Identifier>
+      <Id>40004</Id>
       <SynthReference>Synth/3000000_voice/3000000_Rank_Voice/D_Rank</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>Rank_E</Name>
-      <Identifier>40005</Identifier>
+      <Id>40005</Id>
       <SynthReference>Synth/3000000_voice/3000000_Rank_Voice/E_Rank</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_s</Name>
-      <Identifier>1000041</Identifier>
+      <Id>1000041</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_s</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_a</Name>
-      <Identifier>1000042</Identifier>
+      <Id>1000042</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_a</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_b</Name>
-      <Identifier>1000043</Identifier>
+      <Id>1000043</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_c</Name>
-      <Identifier>1000044</Identifier>
+      <Id>1000044</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_d</Name>
-      <Identifier>1000045</Identifier>
+      <Id>1000045</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_c</SynthReference>
       <UserComment />
       <Flags>0</Flags>
     </BuilderCueNode>
     <BuilderCueNode>
       <Name>sys_actstg_rank_e</Name>
-      <Identifier>1000046</Identifier>
+      <Id>1000046</Id>
       <SynthReference>Synth/00_system/01_actionstage/sys_actstg_rank_e</SynthReference>
       <UserComment />
       <Flags>0</Flags>
