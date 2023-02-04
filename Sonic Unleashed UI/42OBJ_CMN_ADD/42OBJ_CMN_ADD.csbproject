@@ -1184,6 +1184,15 @@
       <SampleRate>44100</SampleRate>
       <SampleCount>56013</SampleCount>
     </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_021_jumpslct_ok</Name>
+      <Intro>Synth_02_object_01_obj_sonic_00_common_0021_objsn_jumpslct_ok_aif_Intro.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>64090</SampleCount>
+    </BuilderSoundElementNode>
   </SoundElementNodes>
   <AisacNodes>
     <BuilderAisacNode>
