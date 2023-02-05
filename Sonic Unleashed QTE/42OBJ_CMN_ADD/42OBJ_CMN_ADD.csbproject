@@ -2211,6 +2211,24 @@
       <SampleCount>10178</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
+      <Name>Synth/4000000_object/4003000_OBJ_EGB_SONIC/4003_001_coaster_rocket</Name>
+      <Intro />
+      <Loop>Synth_02_object_01_obj_sonic_01_stage_new_08_egb_06_objsn_egb_coaster_rocket_aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>32000</SampleRate>
+      <SampleCount>126847</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/4000000_object/4003000_OBJ_EGB_SONIC/EGB_COASTERSPARK_CPLX/egb_coaster_run_aif</Name>
+      <Intro>Synth_02_object_01_obj_sonic_01_stage_new_08_egb_08_objsn_egb_coasterspark_cplx_05_objsn_egb_coaster_run_aif_Loop.adx</Intro>
+      <Loop />
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>44100</SampleRate>
+      <SampleCount>154120</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
       <Name>Synth/999_dummy_AIF</Name>
       <Intro>Synth_999_dummy_AIF_Intro.adx</Intro>
       <ChannelCount>1</ChannelCount>
@@ -2225,6 +2243,15 @@
       <Streaming>false</Streaming>
       <SampleRate>48000</SampleRate>
       <SampleCount>1</SampleCount>
+    </BuilderSoundElementNode>
+    <BuilderSoundElementNode>
+      <Name>Synth/4000000_object/4003000_OBJ_EGB_SONIC/4003_002_coaster_gust</Name>
+      <Intro />
+      <Loop>Synth_02_object_01_obj_sonic_01_stage_new_08_egb_07_objsn_egb_coaster_gust_aif_Loop.adx</Loop>
+      <ChannelCount>1</ChannelCount>
+      <Streaming>false</Streaming>
+      <SampleRate>32000</SampleRate>
+      <SampleCount>199542</SampleCount>
     </BuilderSoundElementNode>
     <BuilderSoundElementNode>
       <Name>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_012_navi_ds_aif</Name>

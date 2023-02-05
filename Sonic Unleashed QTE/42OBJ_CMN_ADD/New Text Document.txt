@@ -1,0 +1,119 @@
+06_objsn_egb_coaster_rocket
+
+
+
+Release: 130
+
+
+
+PitchL 780
+
+wetness 0:22
+
+rollof:3
+
+
+
+
+
+
+
+
+
+07_objsn_egb_coaster_gust
+
+
+
+
+Release 130
+
+
+
+wet 0: 22
+
+
+
+
+
+
+08_objsn_egb_cstrspk=  08_objsn_egb_coasterspark_1+ 05_objsn_egb_coaster_run
+
+
+
+
+
+09_objsn_egb_coastercurve
+
+pitch: 610
+
+rolloff_5
+
+
+
+
+
+
+10_objsn_egb_coaster_hit
+
+rolloff5
+
+
+
+
+28_objsn_egb_corster_derail:
+
+rollof5
+
+29_objsn_egb_corster_land
+
+rolloff5
+
+
+
+
+
+
+
+05_objsn_egb_coaster_run=
+
+
+
+05_objsn_egb_coaster_run2
+
+
+Releae: 70
+Pitch:220
+rolloff:3 
+
++
+
+
+
+
+05_objsn_egb_coaster_run3
+
+
+Pitch: -310
+
+
+
+Release 120
+
+rolloff: 5
+
++
+
+
+
+05_objsn_egb_coaster_run3_1
+
+
+
+
+Release: 180
+
+
+
+Pitch -740
+
+rolloff: 5
