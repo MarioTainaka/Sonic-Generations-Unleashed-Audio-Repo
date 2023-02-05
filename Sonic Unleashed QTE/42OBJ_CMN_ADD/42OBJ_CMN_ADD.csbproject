@@ -113,6 +113,48 @@
       <SynthReference>Synth/4000000_object/4002000_OBJ_CMN_GE/4002_025_QTE_timeout</SynthReference>
       <Flags>0</Flags>
     </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>4003_001_coaster_rocket</Name>
+      <Id>3000813002</Id>
+      <SynthReference>Synth/4000000_object/4003000_OBJ_EGB_SONIC/4003_001_coaster_rocket</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>4003_002_coaster_gust</Name>
+      <Id>3000813003</Id>
+      <SynthReference>Synth/4000000_object/4003000_OBJ_EGB_SONIC/4003_002_coaster_gust</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>4000_001_egb_cstrspk</Name>
+      <Id>3000813004</Id>
+      <SynthReference>Synth/4000000_object/4004000_OBJ_EGB_COASTERSPARK_CPLX/4000_001_egb_cstrspk</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>4003_001_egb_coastercurve</Name>
+      <Id>3000813005</Id>
+      <SynthReference>Synth/4000000_object/4004000_OBJ_EGB_COASTERSPARK_CPLX/4003_001_egb_coastercurve</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>4003_002_egb_coaster_hit</Name>
+      <Id>3000813006</Id>
+      <SynthReference>Synth/4000000_object/4004000_OBJ_EGB_COASTERSPARK_CPLX/4003_002_egb_coaster_hit</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>4003_003_egb_corster_derail</Name>
+      <Id>3000813007</Id>
+      <SynthReference>Synth/4000000_object/4004000_OBJ_EGB_COASTERSPARK_CPLX/4003_003_egb_corster_derail</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
+    <BuilderCueNode>
+      <Name>4003_005_egb_corster_run</Name>
+      <Id>3000813008</Id>
+      <SynthReference>Synth/4000000_object/4004000_OBJ_EGB_COASTERSPARK_CPLX/4003_005_egb_corster_run</SynthReference>
+      <Flags>0</Flags>
+    </BuilderCueNode>
   </CueNodes>
   <SynthNodes>
     <BuilderSynthNode>
